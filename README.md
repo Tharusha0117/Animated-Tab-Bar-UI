@@ -1,2 +1,16 @@
-# Animated-Tab-Bar-UI
-This Flutter app features an animated tab bar with smooth transitions, custom gradients, and scaling icons. It includes Home, Search, and Profile tabs, each with unique icons. Hero animations and a frosted glass effect enhance the user experience, providing a modern and interactive design.
+# animated_tab
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
